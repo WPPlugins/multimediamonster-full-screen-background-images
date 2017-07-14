@@ -1,0 +1,121 @@
+
+		/*****************************************************************************************/
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*              				 If cats looked like frogs              				 */
+		/*				  we'd realize what nasty, cruel little bastards they are.   	 	     */
+		/*								      ... STYLE ...    	 	                  			 */
+		/*							  That's what people remember.   	 	                     */
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*          Please keep this stylesheet neat and clean so we can all be happy  		     */
+		/*                                                                            			 */
+		/*      				 Copyright (c) 2013 | All rights reserved  		    			 */
+		/*      	 			MultiMediaMonster | Renske van der Heijden  			 		 */
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*****************************************************************************************/
+		
+			/* general */
+			.wrap.full-screen-background-images .small
+							{
+								font-size:						11px;
+								font-style:						italic;
+								font-weight:					normal;
+							}
+			.wrap.full-screen-background-images em
+							{
+								color:							#F00;
+							}
+			/* table display */
+			.wrap.full-screen-background-images .div-to-table
+							{
+								display:						table;
+								width:							100%;
+							}
+			.wrap.full-screen-background-images .div-to-table .div-to-row
+							{
+								display:						table-row;
+							}
+			.wrap.full-screen-background-images .div-to-table .div-to-row .div-to-cell
+							{
+								display:						table-cell;
+								padding:						5px 0 5px 0;
+								vertical-align:					top;
+							}
+			.wrap.full-screen-background-images .div-to-table .div-to-row .div-to-cell:first-child
+							{
+								padding:						5px 20px 5px 0;
+							}
+			/* tabs links */
+			.wrap.full-screen-background-images a:focus
+							{
+								box-shadow:						0 0 0 0 #000,0 0 0 0 rgba(255,255,255,0) !important;
+							}
+			/* tabs */
+			.wrap.full-screen-background-images h3
+							{
+								margin:							0;
+								padding:						0;
+								font-size: 						18px;
+							}
+			.wrap.full-screen-background-images .tab-help
+							{
+								border-bottom:					1px solid #ccc;
+								padding-bottom:					10px;
+								font-size: 						14px;
+							}
+			.wrap.full-screen-background-images .nav-tab-wrapper-content 
+							{
+								background:						#fff;
+								padding: 						20px;
+								margin:							5px 0 5px 0;
+								border:							1px solid #ccc;
+							}
+			.wrap.full-screen-background-images .nav-tab-wrapper-content .form-table
+							{
+								margin:							0;
+							}
+			.wrap.full-screen-background-images .nav-tab-wrapper-content .form-table tr th
+							{
+								width:							275px;
+							}
+			.wrap.full-screen-background-images .nav-tab-wrapper-content .form-table tr td,
+			.wrap.full-screen-background-images .nav-tab-wrapper-content .form-table tr th
+							{
+								border-bottom:					1px solid #ccc;
+								padding: 						10px 20px 10px 0;
+							}
+			.wrap.full-screen-background-images .nav-tab-wrapper-content .form-table tr:last-child td,
+			.wrap.full-screen-background-images .nav-tab-wrapper-content .form-table tr:last-child th
+							{
+								border-bottom:					0;
+								padding: 						10px 20px 0 0;
+							}
+			.wrap.full-screen-background-images .nav-tab-wrapper-content .nav-tab-content
+							{
+								display:						none;
+							}
+			.wrap.full-screen-background-images .nav-tab-wrapper-content .nav-tab-content.nav-tab-active-content
+							{
+								display:						block;
+							}
+			.wrap.full-screen-background-images p.submit
+							{
+								margin:							0;
+								padding:						0;
+							}
+			.wrap.full-screen-background-images form.reset
+							{
+								float:							right;
+								margin-top:						-28px;
+							}
+			/* menu */
+			a.menu-icon-mmm_fsbi .wp-menu-image.dashicons-before
+							{
+								display:						table-cell;
+							}
+			a.menu-icon-mmm_fsbi .wp-menu-name
+							{
+								display:						table-cell;
+							}

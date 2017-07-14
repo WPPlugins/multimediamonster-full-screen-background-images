@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Full Screen Background Images v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-09-13 07:45+0200\n"
+"Last-Translator: Renske van der Heijden <renske@multimediamonster.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: nl_NL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-copyright.php:15 classes/class-mmm-copyright.php:37
+#: classes/class-mmm-copyright.php:50
+msgid "Hi there!"
+msgstr "Hoi!"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-copyright.php:25 classes/class-mmm-copyright.php:63
+#, php-format
+msgid "How nice you started using my plugin! I really have no terms or conditions of using it. You can just install it. You don&#8217;t have to mention anything or link to my page or other weird stuff.<br /><br />If you encounter something where your mind goes &#8220;ehmmm that&#8217;s not right&#8221; (I can&#8217;t imagine it happening but you never know) please contact me. You can <a href='mailto:%s'>e-mail me</a> or send me a message through the contact form on <a href='http://%s' target='_blank'>my website</a>.<br /><br /><b>With love and cookies %s</b><br />(%s)<br /><a href='http://%s' target='_blank'>%s</a>"
+msgstr "Wat leuk dat je mijn plugin bent gaan gebruiken! Ik heb geen voorwaarden, eisen of verwachtingen van jou zodat je deze plugin mag gaan gebruiken. Je kunt hem gewoon installeren. Je hoeft me niet op je website te benoemen, een link te plaatsen of andere rare dingen.<br /><br />Mocht je nou iets tegenkomen waarvan je denkt &#8220;ehmmm dat klopt niet helemaal&#8221; (ik kan me niet voorstellen dat dit gebeurt maar je weet maar nooit) neem dan even contact met me op. Je kunt me een <a href='mailto:%s'>mailtje</a> sturen of een berichtje achterlaten via het contactformulier op <a href='http://%s' target='_blank'>mijn website</a>.<br /><br /><b>Met liefde en koekjes %s</b><br />(%s)<br /><a href='http://%s' target='_blank'>%s</a>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-admin-menu-items.php:31
+msgid "Backgrounds"
+msgstr "Achtergrond foto's"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:112
+#: classes/class-mmm-fsbi-settings.php:123
+#: classes/class-mmm-fsbi-settings.php:134
+#: classes/class-mmm-fsbi-settings.php:145
+#: classes/class-mmm-fsbi-settings.php:174
+#: classes/class-mmm-fsbi-settings.php:185
+#: classes/class-mmm-fsbi-settings.php:196
+#: classes/class-mmm-fsbi-settings.php:219
+msgid "Yes"
+msgstr "Ja"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:113
+#: classes/class-mmm-fsbi-settings.php:124
+#: classes/class-mmm-fsbi-settings.php:135
+#: classes/class-mmm-fsbi-settings.php:146
+#: classes/class-mmm-fsbi-settings.php:175
+#: classes/class-mmm-fsbi-settings.php:186
+#: classes/class-mmm-fsbi-settings.php:197
+#: classes/class-mmm-fsbi-settings.php:220
+msgid "No"
+msgstr "Nee"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:236
+msgid "No transition effect"
+msgstr "Geen effect"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:238
+msgid "Slide in from top"
+msgstr "Schuif in van de bovenkant"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:239
+msgid "Slide in from right"
+msgstr "Schuif in van rechts"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:240
+msgid "Slide in from bottom"
+msgstr "Schuif in van onderkant"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:241
+msgid "Slide in from left"
+msgstr "Schuif in van links"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:242
+msgid "Carousel from right to left"
+msgstr "Carousel van rechts naar links"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:243
+msgid "Carousel from left to right"
+msgstr "Carousel van links naar rechts"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-admin-menu-items.php:64
+msgid "All backgrounds"
+msgstr "Alle achtergrond foto's"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-admin-menu-items.php:77
+#: classes/class-mmm-fsbi-settings.php:37
+msgid "Settings general"
+msgstr "Instellingen algemeen"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:40
+#: classes/class-mmm-fsbi-settings.php:101
+msgid "Configuration"
+msgstr "Configuratie"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:41
+#: classes/class-mmm-fsbi-settings.php:156
+msgid "Layout"
+msgstr "Uiterlijk"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:102
+msgid "This section contains configuration settings for setting up Full Screen Background Images plugin"
+msgstr "Dit gedeelte bevat configuratie instellingen voor deze plugin"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:107
+msgid "Autoplay<br /><span class=\"small\">Determines whether slideshow begins playing when page is loaded</span>"
+msgstr "Autostart<br /><span class=\"small\">Bepaald of de achtergrond foto's automatisch starten met wisselen</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:118
+msgid "Show Controls<br /><span class=\"small\">Show the controls at the bottom of the page</span>"
+msgstr "Toon navigatie<br /><span class=\"small\">Toon navigatie (thumbnails en overige knoppen) aan de onderkant van de website</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:129
+msgid "Keyboard Navigation<br /><span class=\"small\">Allows control via keyboard (Spacebar: Pause or play - Right or Up Arrow: Next slide - Left or Down Arrow: Previous slide).</span>"
+msgstr "Toetsenbord navigatie<br /><span class=\"small\">Toestaan van navigatie via het toetsenbord (spatie: pause of start - pijltje rechts of naar boven: volgende achtergrond foto - pijltje links of naar beneden: vorige achtergrond foto).</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:140
+msgid "Pause on Hover<br /><span class=\"small\">Pauses slideshow while current image hovered over.</span>"
+msgstr "Pauzer bij muis-over<br /><span class=\"small\">Pauzeer de achtergrond foto's animatie als de muis over de achtergrond gaat</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:157
+msgid "This section contains layout settings for setting up Full Screen Background Images plugin"
+msgstr "Dit gedeelte bevat vormgevings instellingen voor deze plugin"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:169
+msgid "Fit always<br /><span class=\"small\">Prevents the image from ever being cropped. Ignores minimum width and height.</span>"
+msgstr "Altijd passend<br /><span class=\"small\">Voorkomt dat de achtergrond foto afgesneden wordt. Negeert minimale hoogte en breedte optie.</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:180
+msgid "Horizontal center<br /><span class=\"small\">Centers image horizontally. When turned off, the images resize/display from the left of the page.</span>"
+msgstr "Centreer horizontaal<br /><span class=\"small\">Centreert de achtergrond foto horizontaal. Bij 'nee' worden de achtergrond foto's worden ze vergroot/verkleind/getoond vanaf de linkerkant van de pagina.</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:191
+msgid "Vertical center<br /><span class=\"small\">Centers image vertically. When turned off, the images resize/display from the top of the page.</span>"
+msgstr "Centreer verticaal<br /><span class=\"small\">Centreert de achtergrond foto verticaal. Bij 'nee' worden de achtergrond foto's worden ze vergroot/verkleind/getoond vanaf de bovenkant van de pagina.</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:202
+msgid "Min Width<br /><span class=\"small\">Minimum width the image is allowed to be. If it is met, the image won&#8217;t size down any further.</span>"
+msgstr "Minimale breedte<br /><span class=\"small\">De minimale breedte die de achtergrond foto mag zijn. Als hieraan voldaan word zal de foto niet verder verkleinen.</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:208
+msgid "Min Height<br /><span class=\"small\">Minimum height the image is allowed to be. If it is met, the image won&#8217;t size down any further.</span>"
+msgstr "Minimale hoogte<br /><span class=\"small\">De minimale hoogte die de achtergrond foto mag zijn. Als hieraan voldaan word zal de foto niet verder verkleinen.</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:214
+msgid "Random Slides<br /><span class=\"small\">Slides are shown in a random order. start_slide is disregarded.</span>"
+msgstr "Willekeurige volgorde<br /><span class=\"small\">Achtergrond foto's worden in willekeurige volgorde getoond. start_slide wordt genegeerd.</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:225
+msgid "Slides Interval<br /><span class=\"small\">Time between slide changes in milliseconds.</span>"
+msgstr "Tijd tussen<br /><span class=\"small\">De tijd tussen 2 achtergrond foto's (in miliseconden).</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:231
+msgid "Transition Slides<br /><span class=\"small\">Controls which effect is used to transition between slides.</span>"
+msgstr "Animatie effect<br /><span class=\"small\">Bepaald welke animatie effect word gebruikt tussen 2 achtergrond foto's.</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:237
+msgid "Fade effect"
+msgstr "Vervagen"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:248
+msgid "Transition Speed<br /><span class=\"small\">Speed of transitions in milliseconds.</span>"
+msgstr "Animatie snelheid<br /><span class=\"small\">De snelheid per achtergrond foto (in miliseconden).</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-admin-menu-items.php:15
+#: classes/class-mmm-fsbi-admin-menu-items.php:16
+msgid "New Background"
+msgstr "Nieuwe achtergrond foto"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-admin-menu-items.php:18
+msgid "View Background"
+msgstr "Bekijk achtergrond foto"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-admin-menu-items.php:19
+msgid "Edit Background"
+msgstr "Bewerk achtergrond foto"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-admin-menu-items.php:20
+msgid "Search Backgrounds"
+msgstr "Zoek achtergrond foto"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-admin-menu-items.php:21
+msgid "No Backgrounds found"
+msgstr "Geen achtergrond foto's gevonden"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-admin-menu-items.php:22
+msgid "No Backgrounds found in the trash"
+msgstr "Geen achtergrond foto's gevonden in de prullenbak"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-admin-menu-items.php:23
+msgid "Parent Background:"
+msgstr "Hoofd achtergrond foto"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-admin-menu-items.php:17
+msgid "Add New Background"
+msgstr "Voeg nieuwe achtergrond foto toe"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-admin-menu-items.php:14
+msgctxt "post type singular name"
+msgid "Backgrounds"
+msgstr "Achtergrond foto's"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:162
+msgid "Background color<br /><span class=\"small\">backgroundcolor for the images</span>"
+msgstr "Achtergrondkleur<br /><span class=\"small\">Achtergrond kleur van de achtergrondfoto's</span>"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-admin-pages.php:77
+msgid "Reset"
+msgstr "Opnieuw instellen"
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-register.php:146
+msgid "Are you sure you want to reset the plugin? This is irreversible."
+msgstr "Weet je zeker dat je de plugin opnieuw wilt instellen? Dit is onomkeerbaar."
+
+# @ mmm-fsbi-translated
+#: classes/class-mmm-fsbi-settings.php:325
+msgid "Settings resetted."
+msgstr "Instellingen opnieuw ingesteld."

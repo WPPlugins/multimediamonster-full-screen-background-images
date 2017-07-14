@@ -1,0 +1,160 @@
+
+		/*****************************************************************************************/
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*              				 If cats looked like frogs              				 */
+		/*				  we'd realize what nasty, cruel little bastards they are.   	 	     */
+		/*								      ... STYLE ...    	 	                  			 */
+		/*							  That's what people remember.   	 	                     */
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*          Please keep this stylesheet neat and clean so we can all be happy  		     */
+		/*                                                                            			 */
+		/*      				 Copyright (c) 2013 | All rights reserved  		    			 */
+		/*      	 			MultiMediaMonster | Renske van der Heijden  			 		 */
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*****************************************************************************************/
+			
+			/* copyright as tab */
+			/* the link */
+			.post-type-mmm_fsbi #screen-options-link-wrap
+							{
+								right:							50px;
+							}
+			.post-type-mmm_fsbi #contextual-help-link-wrap
+							{
+								background:						#b4d333;
+								-webkit-box-shadow:				0 0 0 rgba(0,0,0,0);
+								box-shadow: 					0 0 0 rgba(0,0,0,0);
+								border: 						0px solid #b4d333;
+								right:							50px;
+							}
+			.post-type-mmm_fsbi #contextual-help-link-wrap button
+							{
+								color: 							#fff !important;
+								-webkit-box-shadow:				0 0 0 rgba(0,0,0,0);
+								box-shadow: 					0 0 0 rgba(0,0,0,0);
+							}
+			.post-type-mmm_fsbi #contextual-help-link-wrap button:after
+							{
+								color:							#fff;
+							}
+			/* copyright as cell and or tab */
+			.post-type-mmm_fsbi #screen-meta
+							{
+							}
+			.post-type-mmm_fsbi .contextual-help-tabs-wrap
+							{
+								position:						relative;
+								margin:							0 0 0 0;
+								float:							left;
+								padding:						0;
+							}
+			.post-type-mmm_fsbi .contextual-help-tabs-wrap .help-tab-content
+							{
+								margin:							0;
+								padding:						0;
+							}
+			.post-type-mmm_fsbi .contextual-help-tabs
+							{
+								display:						none;
+							}
+							
+							
+			.post-type-mmm_fsbi #contextual-help-wrap .div-to-table
+							{
+								display:						table;
+								width:							100%;
+							}
+			.post-type-mmm_fsbi #contextual-help-wrap .div-to-table .div-to-row
+							{
+								display:						table-row;
+							}
+			.post-type-mmm_fsbi #contextual-help-wrap .div-to-table .div-to-row .div-to-cell
+							{
+								display:						table-cell;
+								padding:						0 25px 0 0;
+								vertical-align:					top;
+								width:							37%;
+							}
+			.post-type-mmm_fsbi #contextual-help-wrap .div-to-table .div-to-row .div-to-cell:last-child
+							{
+								padding:						0;
+								width:							26%;
+							}
+							
+			.div-to-cell.mmm-copyright
+							{
+								width:							300px;
+							}
+			.post-type-mmm_fsbi #contextual-help-wrap .div-to-cell.mmm-copyright
+							{
+								width:							auto;
+							}
+			.div-to-cell.mmm-copyright .copyright-container,
+			.div-to-tab.mmm-copyright .copyright-container
+							{
+								-moz-box-shadow: 				0 0 5px 0 rgba(0,0,0,0.3);
+								-webkit-box-shadow: 			0 0 5px 0 rgba(0,0,0,0.3);
+								box-shadow: 					0 0 5px 0 rgba(0,0,0,0.3);
+								border-radius:					0;
+								-moz-border-radius: 			0;
+								-webkit-border-radius: 			0;
+								-khtml-border-radius:	 		0;								
+								background: 					#f1f1f1;
+								padding:						10px;
+							}
+			.div-to-cell.mmm-copyright .copyright-container .copyright-content,
+			.div-to-tab.mmm-copyright .copyright-container .copyright-content
+							{
+								border: 						1px solid #ccc;
+								border-radius:					0;
+								-moz-border-radius: 			0;
+								-webkit-border-radius: 			0;
+								-khtml-border-radius:	 		0;								
+								background: 					#fff;
+								padding:						20px 20px 150px 20px;
+								background-image:				url(../../images/admin/copyright-bg.png);
+								background-repeat:				no-repeat;
+								background-position:			center bottom;
+								font-size: 						11px;
+								text-align:						justify;
+							}
+			.div-to-tab.mmm-copyright .copyright-container .copyright-content
+							{
+								padding:						20px 20px 20px 20px;
+							}
+			.div-to-cell.mmm-copyright .copyright-container .copyright-content h4,
+			.div-to-tab.mmm-copyright .copyright-container .copyright-content h4
+							{
+								display: 						block;
+								text-align:						center;
+								padding:						12px;
+								margin: 						-21px -21px 20px -21px;
+								color: 							#fff;
+								border:							1px solid #899945;
+								
+								background: 					#b4d333; 
+								background: 					-moz-linear-gradient(top,  #b4d333 30%, #899945 70%); 
+								background: 					-webkit-gradient(linear, left top, left bottom, color-stop(30%,#b4d333), color-stop(70%,#899945)); 
+								background: 					-webkit-linear-gradient(top,  #b4d333 30%,#899945 70%); 
+								background: 					-o-linear-gradient(top,  #b4d333 30%,#899945 70%); 
+								background: 					-ms-linear-gradient(top,  #b4d333 30%,#899945 70%); 
+								background: 					linear-gradient(to bottom,  #b4d333 30%,#899945 70%); 
+								filter: 						progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4d333', endColorstr='#899945',GradientType=0 ); 
+
+								border-radius:					0 0 0 0;
+								-moz-border-radius: 			0 0 0 0;
+								-webkit-border-radius: 			0 0 0 0;
+								-khtml-border-radius:	 		0 0 0 0;
+								font-size: 						16px;
+								font-weight:					normal;
+							}
+			.div-to-cell.mmm-copyright .copyright-container .copyright-content img.logo,
+			.div-to-tab.mmm-copyright .copyright-container .copyright-content img.logo
+							{
+								max-width:						248px;
+								height:							auto;
+								margin:							20px 0 0 0;
+							}
